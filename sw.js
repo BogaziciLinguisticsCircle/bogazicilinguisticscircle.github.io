@@ -22,8 +22,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "44f7310a8f5e13cbb211ef670e38d96a"
   },
   {
-    "url": "/_nuxt/81e07c33b609afcc6604.js",
-    "revision": "fa1354d5ace314628102362426f463e0"
+    "url": "/_nuxt/bbc05bad65e772888400.js",
+    "revision": "a3d86a58369200660102ad2c8c07a1e8"
   }
 ], {
   "cacheId": "my-nuxt-app",
